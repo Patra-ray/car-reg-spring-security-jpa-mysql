@@ -1,11 +1,9 @@
 #car-reg-spring-security-jpa-mysql
 
 #WebMvcController.java
-#=====================
 Sets up how each of the java endpoints is mapped to a front-end view (html page) 
 
 #WebSecurityConfig.java
-#======================
 extends on WebSecurityConfigurerAdapter
 inserts in memory the user details user:"user" and password:"password"
 
