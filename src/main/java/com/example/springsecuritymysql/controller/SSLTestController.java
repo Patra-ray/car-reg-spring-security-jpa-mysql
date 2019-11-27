@@ -10,5 +10,6 @@ public class SSLTestController {
     public String greeting(){
         return "Self Signed SSL is Working!!";
     }
+
 }
 
